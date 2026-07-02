@@ -1,7 +1,7 @@
-# SemantiHire AI 🚀
+# CogniHire-AI 🚀
 > **Semantic Labs** · Hack2Skill INDIA RUNS Data & AI Challenge MVP
 
-**SemantiHire AI** is a production-ready AI-powered hiring platform that understands candidate profiles **semantically** instead of relying on outdated, keyword-based resume scanning. By matching candidate resumes against job descriptions contextually, SemantiHire AI provides high-precision talent mapping, hybrid scoring, and explainable AI insights for recruiters.
+**CogniHire-AI** is a production-ready AI-powered hiring platform that understands candidate profiles **semantically** instead of relying on outdated, keyword-based resume scanning. By matching candidate resumes against job descriptions contextually, SemantiHire AI provides high-precision talent mapping, hybrid scoring, and explainable AI insights for recruiters.
 
 ---
 
