@@ -1,0 +1,43 @@
+# Root .gitignore for SemantiHire AI
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+venv/
+.venv/
+env/
+
+# Node / JS
+node_modules/
+frontend/dist/
+frontend/build/
+.eslintcache
+.npm
+.yarn
+
+# Database
+backend/*.db
+backend/*.sqlite3
+
+# Uploads and exports
+backend/uploads/*
+!backend/uploads/.gitkeep
+backend/exports/*
+!backend/exports/.gitkeep
+
+# IDEs and OS
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.swo
+.DS_Store
+Thumbs.db

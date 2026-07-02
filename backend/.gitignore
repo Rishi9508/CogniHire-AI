@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env
+
+# Database
+*.db
+*.sqlite3
+
+# Uploads and exports (keep dirs, ignore contents)
+uploads/*
+!uploads/.gitkeep
+exports/*
+!exports/.gitkeep
+
+# ML model cache
+model_cache/
+
+# OS
+.DS_Store
+Thumbs.db
